@@ -42,8 +42,8 @@
             <td>UXXXXXXX</td>
         </tr>
         <tr>
-            <td>Abc</td>
-            <td>UXXXXXXX</td>
+            <td>Quispesivana Torres, Claudio Sandro</td>
+            <td>U202215099</td>
         </tr>
     </table>
 </div>
